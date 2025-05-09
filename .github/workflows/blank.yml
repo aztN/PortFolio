@@ -16,9 +16,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./  # Use './' if your index.html is in the root
+          publish_dir: ./  # Root folder
+          publish_branch: gh-pages  # Explicitly specify target branch
 
-      - name: Run a multi-line script
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
