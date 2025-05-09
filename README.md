@@ -1,53 +1,51 @@
-# My Portfolio
+Welcome to my portfolio website! Here, you can explore my work, skills, and achievements as a front-end developer.
 
-Welcome to my personal portfolio! This website showcases my work and skills as a front-end web developer. The site is hosted on GitHub Pages.
+![Welcome](your-image.jpg)
 
-## Table of Contents
+## About
 
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Certificates](#certificates)
-- [Contact](#contact)
-- [Resume](#resume)
+Hi! I'm a beginner front-end web developer who enjoys building creative and responsive websites. My journey started in college, and I eventually joined [freeCodeCamp](https://www.freecodecamp.org) to learn HTML, CSS, and JavaScript. Here are some projects that helped me get started:
 
-## About Me
+- **[Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-71)** - Learning the basics of HTML.
+- **[Café Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91)** - Learning CSS layout and styling.
 
-Hi! I'm a beginner front-end web developer who enjoys building creative and responsive websites. I started my journey in college and later joined [freeCodeCamp](https://www.freecodecamp.org), where I built several projects to improve my HTML, CSS, and JavaScript skills.
+These projects helped me build a solid foundation in front-end development, and I’m now working toward becoming a professional web developer.
+
+![Photo of Me](https://media.discordapp.net/attachments/1071241512295354479/1369685128036614405/IMG_1383.png?ex=681cc22e&is=681b70ae&hm=15c2bd664a361256f9c846a1038b2e84862a9bdd76735633af034781abeda098&=&format=webp&quality=lossless&width=740&height=1606)
 
 ## Projects
 
-This section displays some of my web development projects. You can check them out below:
+Here are some of the projects I've worked on:
 
-- **[Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-71)** - A basic HTML app built to practice structure and tags.
-- **[Café Menu](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-basic-css-by-building-a-cafe-menu/step-91)** - A CSS-based project to practice styling and layout.
+- **Cat Photo App** - A basic HTML app to learn HTML tags and structure.
+- **Café Menu** - A CSS project to practice layout and design.
+
+![Project Preview](project-image.jpg)
+Video demo:  
+<video controls>
+    <source src="project-demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ## Certificates
 
-I’ve earned several certificates to showcase my learning journey:
+Here are some of the certificates I’ve earned:
 
-- [freeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org)
-- [freeCodeCamp JavaScript Algorithms and Data Structures](https://www.freecodecamp.org)
+![Certificate 1](file:///Users/noeguillen/Downloads/my%20certfifcate.png)
+![Certificate 2](certificate2.jpg)
 
 ## Contact
 
-Feel free to get in touch with me through my email:
+Feel free to get in touch with me via email:
 
 [Email Me](mailto:your-email@example.com)
 
 ## Resume
 
-You can view my resume here:
+Here's my resume:
 
 [View My Resume](https://docs.google.com/document/d/1O3HGr_Bz3lpOl4b6u-m5nZuhN2RrXvQPUI-UjIYauhY/edit?usp=sharing)
 
-## Technologies Used
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub Pages
-
-## License
-
-This repository is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+> "Building the future, one line of code at a time."
